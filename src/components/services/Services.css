@@ -1,0 +1,17 @@
+/* Adicione o CSS correspondente aos serviços aqui */
+.service-item {
+  margin-bottom: 20px;
+}
+
+.service-item img {
+  width: 100%;
+  height: auto;
+}
+
+.service-item h3 {
+  margin-top: 10px;
+}
+
+.service-item p {
+  text-align: justify;
+}
